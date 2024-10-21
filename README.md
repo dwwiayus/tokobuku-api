@@ -11,3 +11,5 @@ NIM  : 362358302073
 Tugas :
 ![Screenshot (65)](https://github.com/user-attachments/assets/818e61cc-5ddb-4028-9660-4a79fde627e7)
 ![Screenshot (68)](https://github.com/user-attachments/assets/fccdc9ed-1d76-4c5e-b4cc-ddf8ba14dcdb)
+ngrok:
+https://dcm1np8l-8000.asse.devtunnels.ms/
